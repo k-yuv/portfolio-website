@@ -13,13 +13,13 @@ export const Navbar = (): React.ReactElement => {
 
       {/* Center: nav links */}
       <div className="flex absolute left-1/2 -translate-x-1/2 items-center gap-1">
-        <a href="/" className="text-(--forground) px-[0.85rem] py-[0.4rem] rounded-md no-underline transition-colors hover:bg-black/10">
+        <a href="/" className="text-(--forground) px-[0.85rem] py-[0.4rem] rounded-md no-underline transition-colors hover:bg-(--yellow)/75">
           Home
         </a>
-        <a href="/about" className="text-(--forground) px-[0.85rem] py-[0.4rem] rounded-md no-underline transition-colors hover:bg-black/10">
+        <a href="/about" className="text-(--forground) px-[0.85rem] py-[0.4rem] rounded-md no-underline transition-colors hover:bg-(--yellow)/75">
           About
         </a>
-        <a href="/fun" className="text-(--forground) px-[0.85rem] py-[0.4rem] rounded-md no-underline transition-colors hover:bg-black/10">
+        <a href="/fun" className="text-(--forground) px-[0.85rem] py-[0.4rem] rounded-md no-underline transition-colors hover:bg-(--yellow)/75">
           ^_^
         </a>
       </div>
