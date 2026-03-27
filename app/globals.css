@@ -18,16 +18,27 @@
   --font-mono: var(--font-geist-mono);
 }
 
-h1 {
-  font-family: var(--font-bonbon);
-  font-size: 100px;
-}
-
 body {
   background: var(--background);
   color: var(--foreground);
 }
 
+h1 {
+  font-family: var(--font-bonbon);
+  font-size: clamp(3em, 6.9vw, 100px);
+}
+
+h2 {
+  font-family: var(--font-itim);
+  font-size: clamp(2rem, 4.9vw, 70px);
+}
+
 p {
   font-family: var(--font-itim);
+  font-size: clamp(1rem, 1.7vw, 25px);
+}
+
+a {
+  font-family: var(--font-itim);
+  font-size: clamp(0.9rem, 1.4vw, 20px);
 }

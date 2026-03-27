@@ -26,8 +26,8 @@ export const Navbar = (): React.ReactElement => {
 
       {/* Right: name */}
       <div className="flex items-center gap-2 px-2 py-1.5 rounded-full ml-auto">
-        <span className="font-medium text-(--forground) px-[10px]">✶</span>
-        <span className="font-medium text-(--forground)">Keyura Valalla</span>
+        <p className="font-medium text-(--forground) px-[10px]">✶</p>
+        <p className="font-medium text-(--forground)">Keyura Valalla</p>
       </div>
 
     </nav>
