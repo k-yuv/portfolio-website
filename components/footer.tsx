@@ -8,7 +8,7 @@ export const Footer = () => {
         className="block"
       >
         {/* Top */}
-        <rect x="0" y="0" width="720" height="120" fill="#e7d6c4" />
+        <rect x="0" y="0" width="720" height="120" fill="#7a4f7d" />
 
         {/* ribbon */}
         <path
@@ -19,7 +19,7 @@ export const Footer = () => {
         {/* bottom */}
         <path
           d="M-10,72 C80,52 160,95 280,78 C400,62 480,100 600,75 C660,63 700,68 730,70 L730,120 L-10,120 Z"
-          fill="#8e9b75"
+          fill="#e7d6c4"
         />
       </svg>
     </>

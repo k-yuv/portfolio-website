@@ -4,11 +4,12 @@
   --background: #e7d6c4;
   --foreground: #7b3f40;
 
-  --red-orange: #a55d40;
+  --redorange: #a55d40;
   --peach: #c97a62;
   --green: #8c8b5e;
+  --lightgreen: #a3b089;
+  --purple: #7c597e;
   --yellow: #d8a94f;
-  --purple: #6e1f74;
 }
 
 @theme inline {
