@@ -73,7 +73,7 @@ export default function Home() {
           <p className="pb-[2em] pr-[1em]">
             The final project of my CSE 135 class, (Online Database Analytics Applications) in which my group built an analytics website to track the behaviors of users, as well as their performance and errors.
           </p>
-          <a href="cse135" className='text-(--redorange) hover:text-(--peach)'>Click here to see more about this project! &gt;ᴗ&lt;</a>
+          <a href="analytics" className='text-(--redorange) hover:text-(--peach)'>Click here to see more about this project! &gt;ᴗ&lt;</a>
         </div>
 
         <div style={{borderRadius: '5px', overflow: 'hidden', marginRight: '5.5vw'}} className="outline-solid outline-(--yellow)">
@@ -125,7 +125,7 @@ export default function Home() {
           <p className="pb-[2em] pr-[1em]">
             My passion project ♡ I started this game with my best friend in highschool, and submitted it to a project showcase where we won 2nd place! (Behind exoplanet research) Hopefully in the future we will see a completed version of Virene :D
           </p>
-          <a href="cse135" className='text-[#efc67b] hover:text-(--background)'>Click here to see more about this project! ( ´ ꒳ ` )</a>
+          <a href="virene" className='text-[#efc67b] hover:text-(--background)'>Click here to see more about this project! ( ´ ꒳ ` )</a>
         </div>
 
         <div style={{borderRadius: '5px', overflow: 'hidden', marginRight: '5.5vw'}} className="outline-solid outline-(--yellow)">
