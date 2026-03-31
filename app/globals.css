@@ -31,7 +31,7 @@ h1 {
 
 h2 {
   font-family: var(--font-itim);
-  font-size: clamp(2rem, 4.9vw, 70px);
+  font-size: clamp(2rem, 4.9vw, 50px);
 }
 
 p {
