@@ -86,7 +86,7 @@ export default function Home() {
                     bottom={"#a55d40"} />
 
       <div className="bg-(--redorange) text-(--background) flex pt-[0em] pb-[5em]">
-        <div className="w-[50%]pl-[5.5vw] mr-[1.4vw]">
+        <div className="w-[50%] pl-[5.5vw] mr-[1.4vw]">
           <h2 className='pr-[0.25em]'>Keebs @ UCSD: Website</h2> 
           <p className="pb-[2em] pr-[1em]">
             I am a part of the tech team at the Keyboard Club at UCSD, in which I was recruited to help with the website, where event attendees can get an overview of our club, see our events, and check into events! I helped kickstart the user authentication system and helped with simple backend tasks!
