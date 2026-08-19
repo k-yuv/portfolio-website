@@ -11,7 +11,7 @@ export const WaveDivider = ({top, ribbon, bottom}: Divider) => {
         width="100%"
         viewBox="0 0 720 80"
         preserveAspectRatio="none"
-        className="block mb-[-1px]"
+        className="block mb-[-2px]"
       >
         {/* top */}
         <rect x="0" y="0" width="720" height="20" fill={top} />
