@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Navbar = (): React.ReactElement => {
   return (
-    <nav className="flex fixed top-0 z-50 w-full items-center px-8 h-[60px] bg-(--background)/75 shadow-[0_2px_0px_rgba(0,0,0,0.12)]" style={{ fontFamily: 'var(--font-itim)', fontSize: '1.25em' }}>
+    <nav className="flex fixed top-0 z-50 w-full items-center px-8 h-[60px] bg-(--background)/75 shadow-[0_2px_0px_rgba(0,0,0,0.12)] font-['var(--font-itim)'] text-[1.25em]">
 
       {/* Left: favicon */}
       <div className="flex items-center">
