@@ -49,7 +49,7 @@ export default function Home() {
                     bottom={"#8c8b5e"}
       />
 
-      <div className="bg-(--green) text-(--background) flex pt-[0em] pb-[7em]">
+      <div className="bg-(--green) text-(--background) flex pt-[0em] pb-[7em] mb-[-1em]">
         <div className="w-[50%] pl-[5.5vw] mr-[1.4vw]" >
           <div className="flex"><h2 className='pr-[0.25em]'>clubhive</h2> <Image src="/bee.svg" width={50} height={0} alt="decal" /></div>
           <p className="pb-[2em] pr-[1em]">
