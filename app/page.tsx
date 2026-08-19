@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         {/** ROW 1 */}
-        <div className="bg-(--peach) p-[80px] flex items-center justify-center text-center">
+        <div className="bg-(--peach) p-[80px] flex items-center justify-center text-center mb-[-1em]">
           <div className="w-[50%]">
             <div className="flex bg-(--peach) justify-center">
               <h1 className='pt-[1.5vw] text-(--background)'>Welcome</h1>
@@ -29,7 +29,7 @@ export default function Home() {
                     ribbon={"#d8a94f"} 
                     bottom={"#e7d6c4"}/>
 
-      <div className="flex pt-[0em] pb-[7em]">
+      <div className="flex pt-[0em] pb-[7em] mb-[-1em]">
         <div className="w-[50%] pl-[5.5vw] mr-[1.4vw]">
           <h2 className=''>Capchd V2</h2>
           <p className="pb-[2em] pr-[1em]">
@@ -67,7 +67,7 @@ export default function Home() {
                     ribbon={"#d8a94f"} 
                     bottom={"#e7d6c4"} />
 
-      <div className="flex pt-[0em] pb-[7em]">
+      <div className="flex pt-[0em] pb-[7em] mb-[-1em]">
         <div className="w-[50%] pl-[5.5vw] mr-[1.4vw]">
           <h2 className='pr-[0.25em]'>Analytics Web App</h2> 
           <p className="pb-[2em] pr-[1em]">
@@ -85,7 +85,7 @@ export default function Home() {
                     ribbon={"#d8a94f"} 
                     bottom={"#a55d40"} />
 
-      <div className="bg-(--redorange) text-(--background) flex pt-[0em] pb-[5em]">
+      <div className="bg-(--redorange) text-(--background) flex pt-[0em] pb-[5em] mb-[-1em]">
         <div className="w-[50%] pl-[5.5vw] mr-[1.4vw]">
           <h2 className='pr-[0.25em]'>Keebs @ UCSD: Website</h2> 
           <p className="pb-[2em] pr-[1em]">
@@ -102,7 +102,7 @@ export default function Home() {
                     ribbon={"#d8a94f"} 
                     bottom={"#e7d6c4"} />
 
-      <div className="flex pt-[0em] pb-[7em]">
+      <div className="flex pt-[0em] pb-[7em] mb-[-1em]">
         <div className="w-[50%] pl-[5.5vw] mr-[1.4vw]">
           <h2 className='pr-[0.25em]'>Other People Magazine</h2> 
           <p className="pr-[1em]">
@@ -119,7 +119,7 @@ export default function Home() {
                     ribbon={"#d8a94f"} 
                     bottom={"#7c597e"} />
 
-      <div className="bg-(--purple) text-(--background) flex pt-[0em] pb-[7em]">
+      <div className="bg-(--purple) text-(--background) flex pt-[0em] pb-[7em] mb-[-1em]">
         <div className="w-[50%] pl-[5.5vw] mr-[1.4vw]">
           <h2 className='pr-[0.25em]'>Virene</h2> 
           <p className="pb-[2em] pr-[1em]">
