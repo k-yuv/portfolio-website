@@ -35,8 +35,8 @@ export default function Home() {
           <p className="pb-[2em] pr-[1em]">
             This is the project I worked on as a developer intern at SDSC (San Diego Supercomputing Center) during my third year of undergrad! I worked on DevOps on the project, by setting up Docker on an SDSC instance and creating CI/CD pipelines. Previously, I created scaffolding for the frontend by using React, Nextjs, and Tailwind.
           </p>
-          <a href="capchd" className='text-(--redorange) hover:text-(--peach)'>Click here to see more about this project o( ❛ᴗ❛ )o</a>
-        </div>
+{/*          <a href="capchd" className='text-(--redorange) hover:text-(--peach)'>Click here to see more about this project o( ❛ᴗ❛ )o</a>
+*/}        </div>
 
         {/* image goes here */}
         <div className="rounded-[5px] overflow-hidden mr-[5.5vw] flex h-fit outline-solid outline-(--yellow)">
@@ -55,8 +55,8 @@ export default function Home() {
           <p className="pb-[2em] pr-[1em]">
             I worked on this website during my Summer Program at SDSC. I was mainly tasked with backend roles, such as database design and user authentication. Most importantly, I learned how to work in a team setting!
           </p>
-          <a href="clubhive" className='text-[#efc67b] hover:text-(--background)'>Click here to see more about this project (✧ω✧)</a>
-        </div>
+{/*          <a href="clubhive" className='text-[#efc67b] hover:text-(--background)'>Click here to see more about this project (✧ω✧)</a>
+*/}        </div>
 
         <div className="rounded-[5px] overflow-hidden mr-[5.5vw] flex h-fit outline-solid outline-(--yellow)">
           <Image src="/clubhive.png" height={100} width={750} alt="clubhive website"/>
@@ -73,8 +73,8 @@ export default function Home() {
           <p className="pb-[2em] pr-[1em]">
             The final project of my CSE 135 class, (Online Database Analytics Applications) in which my group built an analytics website to track the behaviors of users, as well as their performance and errors.
           </p>
-          <a href="analytics" className='text-(--redorange) hover:text-(--peach)'>Click here to see more about this project! &gt;ᴗ&lt;</a>
-        </div>
+{/*          <a href="analytics" className='text-(--redorange) hover:text-(--peach)'>Click here to see more about this project! &gt;ᴗ&lt;</a>
+*/}        </div>
 
         <div className="rounded-[5px] overflow-hidden mr-[5.5vw] flex h-fit outline-solid outline-(--yellow)">
           <Image src="/analytics.png" height={100} width={750} alt="analytics website"/>
@@ -125,8 +125,8 @@ export default function Home() {
           <p className="pb-[2em] pr-[1em]">
             My passion project ♡ I started this game with my best friend in highschool, and submitted it to a project showcase where we won 2nd place! (Behind exoplanet research) Hopefully in the future we will see a completed version of Virene :D
           </p>
-          <a href="virene" className='text-[#efc67b] hover:text-(--background)'>Click here to see more about this project! ( ´ ꒳ ` )</a>
-        </div>
+{/*          <a href="virene" className='text-[#efc67b] hover:text-(--background)'>Click here to see more about this project! ( ´ ꒳ ` )</a>
+*/}        </div>
 
         <div className="rounded-[5px] overflow-hidden mr-[5.5vw] flex h-fit outline-solid outline-(--yellow)">
           <Image src="/virene.png" height={100} width={750} alt="virene game"/>
