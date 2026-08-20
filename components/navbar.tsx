@@ -25,10 +25,10 @@ export const Navbar = (): React.ReactElement => {
       </div>
 
       {/* Right: name */}
-      <div className="flex items-center gap-2 px-2 py-1.5 rounded-full ml-auto">
+      <a href="https://www.linkedin.com/in/keyura-valalla/" target="_blank" className="flex items-center gap-2 px-2 py-1.5 rounded-full ml-auto">
         <p className="font-medium text-(--forground) px-[10px]">✶</p>
         <p className="font-medium text-(--forground)">Keyura Valalla</p>
-      </div>
+      </a>
 
     </nav>
   );

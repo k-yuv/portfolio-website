@@ -33,7 +33,7 @@ export default function Home() {
         <div className="w-[50%] pl-[5.5vw] mr-[1.4vw]">
           <h2 className=''>Capchd V2</h2>
           <p className="pb-[2em] pr-[1em]">
-            This is the project I worked on as a developer intern at SDSC (San Diego Supercomputing Center) during my third year of undergrad! I worked on DevOps on the project, by setting up Docker on an SDSC instance and creating CI/CD pipelines. Previously, I created scaffolding for the frontend by using React, Nextjs, and Tailwind.
+            This is the project I worked on as a developer intern at SDSC (San Diego Supercomputing Center) during my third year of undergrad! I worked on DevOps on the project, by setting up Docker on an SDSC instance and creating CI/CD pipelines. Before that, I created scaffolding for the frontend by using React, Nextjs, and Tailwind.
           </p>
 {/*          <a href="capchd" className='text-(--redorange) hover:text-(--peach)'>Click here to see more about this project o( ❛ᴗ❛ )o</a>
 */}        </div>
