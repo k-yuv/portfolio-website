@@ -8,7 +8,7 @@ export default function Home() {
 
       <main>
         <div className="p-[80px] pb-[20px]">
-            <p className='text-[75px] pt-[20px]'>This page is under construction! Come back after the next update :D</p>
+            <p className='text-[75px] pt-[20px]'>This page is under construction! Come back after the next update :)</p>
         </div>
       
       </main>
