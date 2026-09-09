@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Bonbon, Itim } from "next/font/google";
 import "./globals.css";
+import FollowCursorImage from "@/components/FollowCursor";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -39,7 +40,7 @@ export default function RootLayout({
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} ${bonbon.variable} ${itim.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col m-[0px] p-[0px]">{children}</body>
+      <body className="min-h-full flex flex-col m-[0px] p-[0px]">{children}<FollowCursorImage /></body>
     </html>
   );
 }
