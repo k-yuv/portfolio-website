@@ -43,3 +43,7 @@ a {
   font-family: var(--font-itim);
   font-size: clamp(0.9rem, 1.4vw, 20px);
 }
+
+html, body, a, button {
+  cursor: url('../public/cursor.svg') 16 16, auto;
+}
